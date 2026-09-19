@@ -70,7 +70,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Then open http://localhost:8501 in your browser.
+Then open (https://blind-source-separation.streamlit.app) in your browser.
 
 ## Pipeline
 
@@ -121,7 +121,6 @@ Covers STFT, room acoustics, separation metrics, and FD-ICA.
 
 ## Team
 
-- Harshil Nagori (24070123046)
 - Dev Darji (24070123033)
 - Krishna Chabbaria (24070123149)
 - Joy Thakkar (24070123051)

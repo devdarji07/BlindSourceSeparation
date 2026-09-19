@@ -1,0 +1,10 @@
+# Streamlit's own base theme -- controls colors on native chrome that CSS
+# overrides can't always reach cleanly (menu, toolbar, some widget internals).
+# Presentation only; no effect on app behavior, routes, or data.
+[theme]
+base = "dark"
+primaryColor = "#8fe3ea"
+backgroundColor = "#0a0b0f"
+secondaryBackgroundColor = "#111318"
+textColor = "#edeff3"
+font = "sans serif"
